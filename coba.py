@@ -4,6 +4,9 @@ b = "nadila"
 print(a+b)
 print(a*b)
 print(a*a)
+
+print(a/b)
+=======
 print("ini aura")
 
 print("aku suka tapi benci")
@@ -13,3 +16,4 @@ def animals(chickens, cows, pigs) :
   return count
 
 animals(2, 5, 4)
+
