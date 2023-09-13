@@ -8,7 +8,7 @@ print("ini aura")
 
 print("aku suka tapi benci")
 
-def animals(chickens, cows, pigs)
+def animals(chickens, cows, pigs) :
   count = chickens*2 + cows*4 + pigs*4
   return count
 
