@@ -10,3 +10,4 @@ print("Aura mau coba bikin cabang")
 print("ini aura")
 
 print("aku suka tapi benci")
+print("gimana ya ini nyatuinnya")
